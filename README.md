@@ -1,5 +1,4 @@
 # DSet-DP
-Code of the DSet-DP algorithm proposed in the paper "Towards Parameter-Free Clustering for Real-World Data", published in PR 2023.
 This is the code of the DSet-DP clustering algorithm proposed in
 
 Jian Hou, Huaqiang Yuan, Marcello Pelillo. Towards Parameter-Free Clustering for Real-World Data. Pattern Recognition, vol. 134, 2023.
